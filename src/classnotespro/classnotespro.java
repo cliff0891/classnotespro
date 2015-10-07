@@ -6,6 +6,8 @@ public class classnotespro {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello Class!");
+		
+		// we are going to make an addition game
 
 	}
 
